@@ -1,5 +1,7 @@
-# JsPractise1
-Live Character Counter for Textarea.
+//# JsPractise1
+//Live Character Counter for Textarea.
+
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
